@@ -1,0 +1,7 @@
+Student ID: 1
+Student Name: adi
+Father's Name: jo
+Student Contact: 9557
+Email Information: ad
+Course: 2
+Year: 2
